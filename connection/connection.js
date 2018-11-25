@@ -1,7 +1,6 @@
 "use strict";
-const pg = require("pg"); // step 3 from server.js
+const pg = require("pg");
 
-// step 4 same always -> connection object
 const pool = {
     user: "postgres",
     password: "password",
