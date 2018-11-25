@@ -9,7 +9,9 @@ Server Side
 4. Test endpoints with Postman.
 
 Angular Side
+
 5. Update the CartService to call all four of your API endpoints. Add methods to add, remove, and update items.
+
 6. Expand the UI to handle these operations.
 
 ![ShoppingCartDB](images/shoppinglist.png)
