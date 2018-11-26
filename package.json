@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ComeAlongErica/shopping-cart-database/issues"
   },
-  "homepage": "https://github.com/ComeAlongErica/shopping-cart-database#readme"
+  "homepage": "https://github.com/ComeAlongErica/shopping-cart-database#readme",
+  "devDependencies": {
+    "dotenv": "^6.1.0"
+  }
 }
