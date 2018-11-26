@@ -18,8 +18,6 @@ function MainService($http) {
   };
 
   self.deleteProducts = (id) => {
-    console.log("clicked");
-    console.log(id);
     return $http({
       url: `/products/${id}`,
       method: "DELETE"
